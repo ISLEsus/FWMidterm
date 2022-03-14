@@ -1,7 +1,7 @@
 # Frameworks Mid-term project
 >Maukeyev Islamkhan
 
-Scheduler console app:
+Scheduler console app for frameworks:
 - Displays Subjects by Day
 - Displays Subjects by Teacher
 - Displays Subjects by Student Group
